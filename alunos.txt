@@ -59,4 +59,14 @@
 "telefone": "(51) 99123-8901"
 }
 }
+"matricula": "2026005",
+"nomeCompleto": "Beatriz Lima Souza",
+"dataNascimento": "2016-07-30",
+"serieAno": "4º Ano",
+"turma": "4A",
+"responsavelLegal": {
+"nome": "Juliana Lima Souza",
+"email": "juliana.souza@email.com",
+"telefone": "(51) 99123-8901"
+}
 ]
