@@ -3,3 +3,5 @@ Gestão de Matriculas e Turmas: Organização automatizada de turmas, alocação
 Portal do Aluno e Responsável: Painel para acompanhamento em tempo real de notas, frequência, boletins e comunicados importantes.
 
 Diário de Classe Eletrônico: Ferramenta para professores registrarem presenças, conteúdos lecionados, avaliações e observações pedagógicas.
+
+Módulo Financeiro: Emissão de boletos, controle de mensalidades, cobranças automáticas e gestão de bolsas de estudo.
