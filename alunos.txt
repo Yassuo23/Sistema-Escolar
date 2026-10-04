@@ -1,0 +1,62 @@
+[
+{
+"matricula": "2026001",
+"nomeCompleto": "Ana Clara Silva",
+"dataNascimento": "2012-03-12",
+"serieAno": "8º Ano",
+"turma": "8A",
+"responsavelLegal": {
+"nome": "Roberto Silva",
+"email": "roberto.silva@email.com",
+"telefone": "(11) 98765-4321"
+}
+},
+{
+"matricula": "2026002",
+"nomeCompleto": "Lucas Santos Oliveira",
+"dataNascimento": "2010-08-05",
+"serieAno": "1º Ano Ensino Médio",
+"turma": "101-M",
+"responsavelLegal": {
+"nome": "Camila Santos Oliveira",
+"email": "camila.oliveira@email.com",
+"telefone": "(21) 99876-5432"
+}
+},
+{
+"matricula": "2026003",
+"nomeCompleto": "Mariana Costa Ferreira",
+"dataNascimento": "2014-11-22",
+"serieAno": "6º Ano",
+"turma": "6B",
+"responsavelLegal": {
+"nome": "Marcos Ferreira",
+"email": "marcos.ferreira@email.com",
+"telefone": "(31) 97654-3210"
+}
+},
+{
+"matricula": "2026004",
+"nomeCompleto": "Gabriel Almeida Rocha",
+"dataNascimento": "2009-01-19",
+"serieAno": "2º Ano Ensino Médio",
+"turma": "202-T",
+"responsavelLegal": {
+"nome": "Patricia Rocha",
+"email": "patricia.rocha@email.com",
+"telefone": "(41) 98123-4567"
+}
+},
+{
+"matricula": "2026005",
+"nomeCompleto": "Beatriz Lima Souza",
+"dataNascimento": "2016-07-30",
+"serieAno": "4º Ano",
+"turma": "4A",
+"responsavelLegal": {
+"nome": "Juliana Lima Souza",
+"email": "juliana.souza@email.com",
+"telefone": "(51) 99123-8901"
+}
+}
+]

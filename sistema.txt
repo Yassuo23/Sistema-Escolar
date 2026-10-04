@@ -1,0 +1,5 @@
+Gestão de Matriculas e Turmas: Organização automatizada de turmas, alocação de salas e gerenciamento de transferências ou novas matrículas.
+
+Portal do Aluno e Responsável: Painel para acompanhamento em tempo real de notas, frequência, boletins e comunicados importantes.
+
+Diário de Classe Eletrônico: Ferramenta para professores registrarem presenças, conteúdos lecionados, avaliações e observações pedagógicas.

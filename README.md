@@ -1,0 +1,1 @@
+Este é um sistema escolar, que está sendo desenvolvido por mim, Pedro Yassuo. O intuito desse sistema é fornecer uma ferramenta de fácil acesso para que os alunos possam se desenvolver melhor no dia a dia escolar.
